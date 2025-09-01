@@ -12,23 +12,23 @@ This project demonstrates my skills in Java, Spring Boot, REST API development, 
 
 -  RESTful API – Exposes a clean endpoint /api/email/generate for frontend or third-party integration.
 
-Scalable Design – Built with Spring Boot + WebClient, ready for production-level workloads.
+-  Scalable Design – Built with Spring Boot + WebClient, ready for production-level workloads.
 
-CORS Enabled – Can seamlessly connect with React, Angular, or mobile clients.
+-  CORS Enabled – Can seamlessly connect with React, Angular, or mobile clients.
 
 🛠️ Tech Stack
 
-Java (Spring Boot) – Core backend & REST API
+-  Java (Spring Boot) – Core backend & REST API
 
-Google Gemini API – AI-powered email generation
+-  Google Gemini API – AI-powered email generation
 
-Lombok – Clean, boilerplate-free Java code
+-  Lombok – Clean, boilerplate-free Java code
 
-Maven – Build & dependency management
+-  Maven – Build & dependency management
 
 📌 Example Usage
 
-Endpoint: POST /api/email/generate
+-  Endpoint: POST /api/email/generate
 
 {
   "emailContent": "Hello, I would like to schedule a meeting with you next week.",
@@ -40,10 +40,10 @@ Endpoint: POST /api/email/generate
 
 🚀 Real-World Applications
 
-Customer support automation
+-  Customer support automation
 
-Smart business communication tools
+-  Smart business communication tools
 
-Personal AI email assistant
+-  Personal AI email assistant
 
-Integration with CRM or productivity platforms
+-  Integration with CRM or productivity platforms
