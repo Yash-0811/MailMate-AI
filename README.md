@@ -6,11 +6,11 @@ This project demonstrates my skills in Java, Spring Boot, REST API development, 
 
 🔹 Key Highlights
 
-AI Integration – Uses Google Gemini for natural language email generation.
+-  AI Integration – Uses Google Gemini for natural language email generation.
 
-Custom Tone Control – Generates replies in different tones (e.g., professional, casual, friendly).
+-  Custom Tone Control – Generates replies in different tones (e.g., professional, casual, friendly).
 
-RESTful API – Exposes a clean endpoint /api/email/generate for frontend or third-party integration.
+-  RESTful API – Exposes a clean endpoint /api/email/generate for frontend or third-party integration.
 
 Scalable Design – Built with Spring Boot + WebClient, ready for production-level workloads.
 
